@@ -4,17 +4,19 @@
     "url": "https://moti.company/health",
     "icon": "https://favicons.githubusercontent.com/moti.company",
     "slug": "moti",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 562,
-    "timeDay": 630,
-    "timeWeek": 527,
-    "timeMonth": 583,
+    "timeDay": 537,
+    "timeWeek": 513,
+    "timeMonth": 587,
     "timeYear": 562,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-20": 0
+    }
   }
 ]

@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/moti.company",
     "slug": "moti",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.97%",
+    "uptimeDay": "95.24%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.97%",
     "time": 569,
     "timeDay": 566,
     "timeWeek": 632,
     "timeMonth": 599,
     "timeYear": 569,
     "dailyMinutesDown": {
-      "2022-03-02": 0
+      "2022-03-03": 47,
+      "2022-03-02": 22
     }
   }
 ]

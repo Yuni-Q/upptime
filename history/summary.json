@@ -4,17 +4,19 @@
     "url": "https://moti.company/health",
     "icon": "https://icons.duckduckgo.com/ip3/moti.company.ico",
     "slug": "moti",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 637,
-    "timeDay": 628,
-    "timeWeek": 683,
-    "timeMonth": 676,
+    "time": 638,
+    "timeDay": 666,
+    "timeWeek": 685,
+    "timeMonth": 677,
     "timeYear": 655,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-04": 0
+    }
   }
 ]

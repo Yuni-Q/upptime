@@ -4,7 +4,7 @@
     "url": "https://moti.company/health",
     "icon": "https://icons.duckduckgo.com/ip3/moti.company.ico",
     "slug": "moti",
-    "status": "up",
+    "status": "down",
     "uptime": "97.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 645,
     "timeYear": 666,
     "dailyMinutesDown": {
+      "2023-09-30": 0,
       "2023-06-03": 814,
       "2023-06-02": 1440,
       "2023-06-01": 1440,

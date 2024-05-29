@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/moti.company.ico",
     "slug": "moti",
     "status": "up",
-    "uptime": "92.00%",
+    "uptime": "92.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "82.01%",
-    "time": 681,
-    "timeDay": 818,
-    "timeWeek": 703,
-    "timeMonth": 689,
-    "timeYear": 681,
+    "uptimeYear": "82.29%",
+    "time": 680,
+    "timeDay": 607,
+    "timeWeek": 706,
+    "timeMonth": 686,
+    "timeYear": 680,
     "dailyMinutesDown": {
       "2024-04-03": 42,
       "2023-11-28": 585,
@@ -80,8 +80,7 @@
       "2023-06-03": 814,
       "2023-06-02": 1440,
       "2023-06-01": 1440,
-      "2023-05-31": 1440,
-      "2023-05-30": 1440
+      "2023-05-31": 1440
     }
   }
 ]

@@ -1,7 +1,7 @@
 url: https://moti.company/health
-status: up
-code: 200
-responseTime: 699
-lastUpdated: 2024-10-01T23:14:38.264Z
+status: down
+code: 502
+responseTime: 939
+lastUpdated: 2024-10-02T10:52:18.313Z
 startTime: 2021-09-06T02:56:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
